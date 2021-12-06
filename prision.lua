@@ -10,7 +10,7 @@ local Plugin = {
 		["Function"] = function(args, speaker)
              	   print("HOLAAAAAA AJDADSJKDKJ estoi probando perdon jajasjskkj")
 		end
-	}
+	},
     }
 }
 return Plugin
