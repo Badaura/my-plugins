@@ -1,12 +1,11 @@
 --[[
 this is not mine, i just upload in my github profile bc pastebin dont work in my country so sorry about coping and u know..
 
-loadstring()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Badaura/my-plugins/main/prision.lua",true))()
 
 Join Infinite Yield group to download more plugins, chat about scripting, script share and more!, also so much documentation about plugis u know, cool things
 https://discord.gg/m46AjThpDR
 --]]
-
 
 local PluginAPI = {}
 function PluginAPI:CreatePlugin(name, description) 
