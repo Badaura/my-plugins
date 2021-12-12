@@ -2,6 +2,8 @@
 by 15 XI_Vandk, my firts plugin xd
 plugin VVV
 
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/Badaura/my-plugins/main/prision.iy.lua",true))()
+
 ]]
 
 _OWWPE7dh4Dcl9av5, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
